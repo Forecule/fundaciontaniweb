@@ -61,19 +61,19 @@ export function Mission() {
               className="text-base leading-relaxed mb-6"
               style={{ color: "var(--tani-text-muted)" }}
             >
-              Fundación TAÑI nació con la convicción de que toda persona, sin importar
-              sus capacidades, merece ser valorada y encontrar su lugar en el mundo. Durante
-              más de 20 años hemos acompañado a adultos con discapacidad intelectual en el
-              desarrollo de habilidades productivas a través de talleres especializados.
+              Fundada en el 2004 como Organización Comunal de la Municipalidad de Lo Barnechea,
+              en 2016 nos constituimos como Fundación Centro Laboral Tañi —un taller protegido
+              para personas con discapacidad intelectual mayores de 18 años que no tienen
+              oportunidad laboral en una empresa convencional.
             </p>
 
             <p
               className="text-base leading-relaxed mb-8"
               style={{ color: "var(--tani-text-muted)" }}
             >
-              Nuestros talleres de suculentas, jabones y galletas artesanales son
-              espacios de aprendizaje, creatividad y orgullo personal, donde cada beneficiario
-              aporta su sello único.
+              TAÑI proviene del Mapudungun &ldquo;mio&rdquo;, nombre propuesto por un
+              beneficiario fundador. Nuestros talleres de suculentas, jabones y galletas son
+              espacios de aprendizaje, creatividad y orgullo personal.
             </p>
 
             {/* Values list */}
