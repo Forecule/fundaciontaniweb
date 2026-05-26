@@ -9,8 +9,7 @@ const links = {
   ],
   products: [
     { label: "Suculentas", href: "#productos" },
-    { label: "Velas Aromáticas", href: "#productos" },
-    { label: "Jabones Naturales", href: "#productos" },
+    { label: "Jabones Artesanales", href: "#productos" },
     { label: "Galletas Artesanales", href: "#productos" },
   ],
   corporate: [
@@ -51,19 +50,19 @@ export function Footer() {
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-white/50 flex-shrink-0" aria-hidden="true" />
                 <a
-                  href="mailto:contacto@tani.cl"
+                  href="mailto:info@fundaciontani.cl"
                   className="text-sm text-white/70 hover:text-white transition-colors"
                 >
-                  contacto@tani.cl
+                  info@fundaciontani.cl
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-white/50 flex-shrink-0" aria-hidden="true" />
                 <a
-                  href="tel:+56912345678"
+                  href="tel:+56990712204"
                   className="text-sm text-white/70 hover:text-white transition-colors"
                 >
-                  +56 9 1234 5678
+                  +569 9071 2204
                 </a>
               </div>
               <div className="flex items-start gap-3">

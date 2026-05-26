@@ -19,7 +19,7 @@ const values = [
     icon: Leaf,
     label: "Productos Artesanales",
     description:
-      "Suculentas, velas aromáticas, jabones naturales y galletas artesanales. Cada pieza elaborada a mano por adultos con discapacidad intelectual en nuestros talleres.",
+      "Suculentas, jabones naturales y galletas artesanales. Cada pieza elaborada a mano por adultos con discapacidad intelectual en nuestros talleres.",
     detail: "100% hecho a mano en Chile",
   },
 ]

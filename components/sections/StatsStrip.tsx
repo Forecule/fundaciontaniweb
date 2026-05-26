@@ -15,7 +15,7 @@ const stats = [
     value: "4",
     unit: "",
     label: "talleres productivos",
-    description: "Succulentas, velas, jabones y galletas",
+    description: "Suculentas, jabones y galletas",
   },
 ]
 

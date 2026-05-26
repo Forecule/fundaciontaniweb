@@ -5,33 +5,25 @@ import { Card, CardContent } from "@/components/ui/card"
 const products = [
   {
     id: 1,
-    name: "Suculentas",
-    description: "Plantas artesanales en macetas únicas, cultivadas con cariño en nuestro taller verde.",
-    price: "CLP $4.500",
+    name: "Suculentas TAÑI",
+    description: "Suculentas y maceteros artesanales reproducidos y cuidados por nuestros beneficiarios.",
+    price: "desde $2.500",
     image: "/images/succulents.jpg",
     tag: "Taller Verde",
   },
   {
     id: 2,
-    name: "Velas Aromáticas",
-    description: "Velas de soya con flores secas naturales y aromas relajantes, elaboradas a mano.",
-    price: "CLP $7.900",
-    image: "/images/candles.jpg",
-    tag: "Taller de Velas",
-  },
-  {
-    id: 3,
-    name: "Jabones Naturales",
-    description: "Jabones artesanales con ingredientes botánicos, libres de químicos agresivos.",
-    price: "CLP $3.500",
+    name: "Jabones TAÑI",
+    description: "Jabones artesanales elaborados con productos naturales para el cuidado de la piel.",
+    price: "$2.500 c/u",
     image: "/images/soaps.jpg",
     tag: "Taller Natural",
   },
   {
-    id: 4,
-    name: "Galletas Artesanales",
-    description: "Galletas decoradas con amor, elaboradas con recetas tradicionales y mucho talento.",
-    price: "CLP $6.200",
+    id: 3,
+    name: "Galletas TAÑI",
+    description: "Galletones y galletas de avena artesanales en sabor Avena-Nuez o Avena-Chocolate.",
+    price: "desde $1.000",
     image: "/images/cookies.jpg",
     tag: "Taller Dulce",
   },
@@ -65,7 +57,7 @@ export function ProductGrid() {
         </div>
 
         {/* Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {products.map((product) => (
             <Card
               key={product.id}

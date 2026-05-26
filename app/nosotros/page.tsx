@@ -24,7 +24,7 @@ const milestones = [
     year: "2018",
     title: "Expansión de talleres y alcance",
     description:
-      "Abrimos tres nuevos talleres —velas, jabones y galletas— sumándolos al histórico taller de suculentas, y lanzamos nuestra línea de regalos corporativos personalizados.",
+      "Abrimos nuevos talleres —jabones y galletas— sumándolos al histórico taller de suculentas, y lanzamos nuestra línea de regalos corporativos personalizados.",
   },
   {
     year: "2024",

@@ -20,7 +20,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Fundación TAÑI — Productos con Propósito',
   description: 'Cada compra dignifica la vida de un adulto con discapacidad intelectual. Compra productos artesanales hechos con amor en nuestros talleres productivos.',
-  keywords: ['fundación', 'discapacidad intelectual', 'productos artesanales', 'suculentas', 'velas', 'jabones', 'galletas', 'Chile'],
+  keywords: ['fundación', 'discapacidad intelectual', 'productos artesanales', 'suculentas', 'jabones', 'galletas', 'Chile'],
 }
 
 export default function RootLayout({

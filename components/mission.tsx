@@ -71,7 +71,7 @@ export function Mission() {
               className="text-base leading-relaxed mb-8"
               style={{ color: "var(--tani-text-muted)" }}
             >
-              Nuestros talleres de suculentas, velas, jabones y galletas artesanales son
+              Nuestros talleres de suculentas, jabones y galletas artesanales son
               espacios de aprendizaje, creatividad y orgullo personal, donde cada beneficiario
               aporta su sello único.
             </p>
